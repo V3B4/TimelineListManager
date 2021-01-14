@@ -1,0 +1,12 @@
+div.scroll {
+    height: calc(100vh - 140px);
+    overflow-y: scroll;
+}
+
+a > h1 {
+    text-decoration: none;
+}
+
+input.btn-add-rm {
+    width: 80px;
+}

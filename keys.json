@@ -1,0 +1,14 @@
+{
+    "via":{
+        "CONSUMER_KEY": "＊＊＊＊＊＊",
+        "CONSUMER_SECRET": "＊＊＊＊＊＊"
+    },
+    "accounts":{
+        "＊＊＊アカウントのID＊＊＊":{
+            "ACCESS_TOKEN": "＊＊＊＊＊＊",
+            "ACCESS_SECRET": "＊＊＊＊＊＊"
+        }
+    }
+}
+
+
